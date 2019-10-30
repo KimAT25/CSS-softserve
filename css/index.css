@@ -1,0 +1,23 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    color: red;
+}
+#chosen {
+    background-color: blue;
+}
+
+.sel {
+    border: 2px solid green;
+    padding 15px;
+}
+
+p:hover {
+    text-decoration: underline;
+}
+
+p:first-letter {
+    font-size: 2rem;
+}
